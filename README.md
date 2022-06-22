@@ -1,4 +1,4 @@
-## Hey there, I'm Allan Baad  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+## Hey there, I'm <a href="https://www.linkedin.com/in/baadallan/" target="_blank">Allan Baad</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 _Seja bem vindo(a)!_
 
 <a href="mailto:munisallan@gmail.com">
@@ -45,14 +45,30 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.s
 
 
 <a href="https://github.com/dev-ballan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ballan&show_icons=true&count_private=true&theme=dark" width="360" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ballan&show_icons=true&count_private=true&theme=dark" width="360" /> </a>
 <a href="https://github.com/dev-ballan/github-readme-stats">
-  <img onclick="https://github.com/dev-ballan/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
-</a>
+  <img onclick="https://github.com/dev-ballan/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" /> </a>
 <a href="https://github.com/dev-ballan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=dev-ballan&layout=compact&hide=Tex,VHDL,Jupyter Notebook&theme=dark&custom_title=Most Used Languages" height="130" /> 
-</a>
+  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=dev-ballan&layout=compact&hide=Tex,VHDL,Jupyter Notebook&theme=dark&custom_title=Most Used Languages" height="130"/> </a>
+
+ ### Algumas Tecnologias e Ferramentas que estou aprendendo: 
+<div>
+  <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
+  <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "CSS3"/></code>
+  <code><img width="40px" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
+  <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title = "bootstrap"/></code>
+  <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "react"/></code>
+  <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title = "angularjs"></code>
+  <code><img width="40px" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title = "java" /></code>
+  <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYsql"/></code>
+ <!-- <code><img width="40px" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title = "docker"/></code> -->
+   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title = "spring"/></code>
+   <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "vscode"/></code>
+  <code><img width="40px" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "git"/></code>
+  
+  <!-- <img align="right" alt="bruno-gif" height="180" style="border-radius:50px;" 
+       src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif"> -->
+</div> 
 
 [gmail]: mailto:munisallan@gmail.com
 [instagram]: https://www.instagram.com/ballanm19/
