@@ -47,9 +47,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.s
 <a href="https://github.com/dev-ballan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-ballan&show_icons=true&count_private=true&theme=dark" width="360" /> </a>
 <a href="https://github.com/dev-ballan/github-readme-stats">
-  <img onclick="https://github.com/dev-ballan/" align="center" src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" /> </a>
-<a href="https://github.com/dev-ballan/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lohhans.vercel.app/api/top-langs/?username=dev-ballan&layout=compact&hide=Tex,VHDL,Jupyter Notebook&theme=dark&custom_title=Most Used Languages" height="130"/> </a>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ballan&layout=compact&hide=Tex,VHDL,Jupyter Notebook&theme=dark&custom_title=Most Used Languages" height="141"/> 
+</a>
 
  ### Algumas Tecnologias e Ferramentas que estou aprendendo: 
 <div>
