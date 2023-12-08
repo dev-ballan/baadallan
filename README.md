@@ -6,7 +6,7 @@ _Seja bem vindo(a)!_
 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.linkedin.com/in/baadallan">
-  <img align="left" alt="Allan Baad | LinkedIn" width="23px" src="https://clipground.com/images/linkedin-clipart-5.jpg" />
+  <img align="left" alt="Allan Baad | LinkedIn" width="23px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://www.instagram.com/ballanm19/">
   <img align="left" alt="Allan Baad | Instagram" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
