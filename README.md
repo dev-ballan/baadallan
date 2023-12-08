@@ -6,7 +6,7 @@ _Seja bem vindo(a)!_
 src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.linkedin.com/in/baadallan">
-  <img align="left" alt="Allan Baad | LinkedIn" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Allan Baad | LinkedIn" width="23px" src="https://imgur.com/OQUXwNp" />
 </a>
 <a href="https://www.instagram.com/ballanm19/">
   <img align="left" alt="Allan Baad | Instagram" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
@@ -24,8 +24,8 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.s
 
 
 <!-- - 🔭 I’m currently working on [Suche](https://github.com/UFAPE-Projetao20201/) -->
-- ⚡ Atualmente estou estudando Web Java na Generation Brasil e Análise e Desenvolvimento de Sistemas na FATEC.
-- 🌱 No momento, estou aprendendo **HTML5**, **CSS3**, **JavaScript** e **Angular**
+- ⚡ Atualmente estou estudando Banco de Dados Oracle e Análise e Desenvolvimento de Sistemas na FATEC.
+- 🌱 No momento, estou aprendendo **HTML5**, **CSS3** e **JavaScript**
 - 🎯 Aqui você consegue acompanhar meus estudos relacionados com a área Dev.
 - 💬 Me pergunte qualquer coisa [aqui][telegram]
 
